@@ -1,0 +1,7 @@
+<div>
+    <img src="https://res.cloudinary.com/dz2ezolgc/image/upload/v1650612663/logo-column.png" alt="logo" style="display: block;width: 200px;height: auto" />
+    <h1>Bonjour {{name}}</h1>
+    <p>
+        Votre commande <strong>{{order}}</strong> est {{status}}
+    </p>
+</div>
